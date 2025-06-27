@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+MVP app receitas
 # receitas_app
 
 A new Flutter project.
@@ -17,4 +17,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # etg_flutter
->>>>>>> e3216732aa0036f586f18369fa9b9f721723605c
+
