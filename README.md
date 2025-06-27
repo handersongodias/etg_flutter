@@ -9,6 +9,8 @@ Projeto Flutter para gerenciar receitas culinárias. Este aplicativo permite aos
   <img src="assets/images/logo.png" width="200" alt="Logo do App">
 </p>
 
+**Nota:** A logomarca utilizada neste projeto foi desenvolvida e possui direitos autorais.
+
 ## ✨ Funcionalidades
 
 *   **Visualização de Receitas**: Navegue por uma lista completa de receitas.
