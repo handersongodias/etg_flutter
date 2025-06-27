@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # receitas_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# etg_flutter
+>>>>>>> e3216732aa0036f586f18369fa9b9f721723605c
